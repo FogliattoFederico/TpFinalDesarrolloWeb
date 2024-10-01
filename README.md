@@ -1,0 +1,1 @@
+Proyecto realizado para la aprobacion del curso de Desarrollo Web en Coder House. Se intento replicar el sitio oficial de Playstation. Para este proyecto solo se utilizo HTML, CSS, SASS y Bottstrap, implementando buenas practicas y un codigo claro y legible.
